@@ -26,7 +26,7 @@ Dentro de la carpeta del proyecto ejecutar
 python dns_queries_collector.py -f <ruta y nombre del archivo>
 ```
 
-Se debe remplazar '<ruta y nombre del archivo>' por la ruta del archivo que se desee analizar, he aqui un ejemplo
+Aqui un ejemplo para ejecutar el script
 
 ```
 python dns_queries_collector.py -f ./queries
